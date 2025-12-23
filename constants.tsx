@@ -56,7 +56,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Spiced tea. Cold brew style. Street warmth.',
     price: '$4.50',
     category: MenuItemCategory.ICED_COFFEE,
-    imageUrl: 'https://images.unsplash.com/photo-1603899743901-387426f5d8d3?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=400&h=400&fit=crop&q=80',
   },
   {
     id: 7,
