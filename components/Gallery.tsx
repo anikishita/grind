@@ -26,14 +26,14 @@ const Gallery: React.FC = () => {
         </div>
         <div className="columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4">
           {GALLERY_IMAGES.map((image, index) => (
-            <div key={image.id} className="break-inside-avoid cursor-pointer" onClick={() => {
+            <div key={image.id} className="break-inside-avoid cursor-pointer group" onClick={() => {
               setCurrentIndex(index);
               setOpen(true);
             }}>
               <img
                 src={image.src}
                 alt={image.alt}
-                className="w-full h-auto object-cover rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300"
+                className="w-full h-auto object-cover rounded-lg shadow-md hover:shadow-xl transition-all duration-300 group-hover:scale-105"
                 loading="lazy"
               />
             </div>

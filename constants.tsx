@@ -16,7 +16,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Single origin. Bold crema. Pure intensity.',
     price: '$3.00',
     category: MenuItemCategory.HOT_COFFEE,
-    imageUrl: 'https://images.unsplash.com/photo-1610632380775-217ecf880bf2?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1579992357154-faf4bde95b3d?w=400&h=400&fit=crop&q=80',
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Smooth pull. Madagascar vanilla. Steamed silk.',
     price: '$4.50',
     category: MenuItemCategory.HOT_COFFEE,
-    imageUrl: 'https://images.unsplash.com/photo-1568914458624-81c19f0bdde2?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1561882468-9110e03e0f78?w=400&h=400&fit=crop&q=80',
   },
   {
     id: 4,
@@ -48,7 +48,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Dark chocolate. Double shot. Ice cold clarity.',
     price: '$5.00',
     category: MenuItemCategory.ICED_COFFEE,
-    imageUrl: 'https://images.unsplash.com/photo-1578374173703-16b0fbd37ad5?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1642647391072-6a2416f048e5?w=400&h=400&fit=crop&q=80',
   },
    {
     id: 6,
@@ -56,7 +56,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Spiced tea. Cold brew style. Street warmth.',
     price: '$4.50',
     category: MenuItemCategory.ICED_COFFEE,
-    imageUrl: 'https://images.unsplash.com/photo-1587080266227-677cc2a4e76e?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1578374173703-16b0fbd37ad5?w=400&h=400&fit=crop&q=80',
   },
   {
     id: 7,
@@ -96,7 +96,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'House spice blend. Real pumpkin. Fall heat.',
     price: '$5.50',
     category: MenuItemCategory.SPECIALTY,
-    imageUrl: 'https://images.unsplash.com/photo-1609207791780-5e9344c22e70?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&h=400&fit=crop&q=80',
   },
   {
     id: 12,
@@ -104,7 +104,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Fresh turmeric. Black pepper. Anti-everything.',
     price: '$5.00',
     category: MenuItemCategory.SPECIALTY,
-    imageUrl: 'https://images.unsplash.com/photo-1577968897966-3d6e71b31cf2?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1556881286-fc6915169721?w=400&h=400&fit=crop&q=80',
   },
 ];
 
