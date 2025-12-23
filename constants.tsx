@@ -56,7 +56,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Spiced tea. Cold brew style. Street warmth.',
     price: '$4.50',
     category: MenuItemCategory.ICED_COFFEE,
-    imageUrl: 'https://images.unsplash.com/photo-1578374173703-16b0fbd37ad5?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1603899743901-387426f5d8d3?w=400&h=400&fit=crop&q=80',
   },
   {
     id: 7,
@@ -88,7 +88,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Ceremonial grade. Stone ground. Calm focus.',
     price: '$5.25',
     category: MenuItemCategory.SPECIALTY,
-    imageUrl: 'https://images.unsplash.com/photo-1536013544070-1ca4b9a3a79c?w=400&h=400&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1515823064-d6e0c04616a7?w=400&h=400&fit=crop&q=80',
   },
   {
     id: 11,
