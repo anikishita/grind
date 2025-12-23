@@ -18,7 +18,7 @@ const Menu: React.FC = () => {
             Our Menu
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            A curated selection of our finest coffees, drinks, and handmade pastries.
+            Honest drinks. Real ingredients. Nothing extra.
           </p>
         </div>
 

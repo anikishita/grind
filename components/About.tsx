@@ -8,19 +8,19 @@ const About: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-20 items-center">
           <div className="order-2 md:order-1">
             <h2 className="text-4xl lg:text-5xl font-serif font-bold text-brand-charcoal mb-6">
-              Our Story
+              Built on Process
             </h2>
             <p className="text-lg text-gray-600 mb-4 leading-relaxed">
-              The Daily Grind was born from a simple idea: to create a space where the community can gather, connect, and enjoy truly exceptional coffee. We believe that coffee is more than just a drink; it's a ritual, an art form, and a catalyst for conversation.
+              We source direct. Roast small batch. Pull every shot by hand. No shortcuts, no compromises—just beans, water, and time doing what they do best.
             </p>
             <p className="text-lg text-gray-600 leading-relaxed">
-              We partner with sustainable farms from around the world to source the finest beans, which are then roasted in-house to bring out their unique flavors. From our baristas to our bakers, every member of our team is dedicated to their craft, ensuring that every item we serve is made with love and attention to detail.
+              Born on the corner of craft and convenience, we're here for the ones who know the difference. Quality you can taste. Vibe you can feel. A street café for people who care.
             </p>
           </div>
           <div className="order-1 md:order-2">
             <img 
-              src="https://picsum.photos/seed/aboutcoffee/800/600" 
-              alt="Inside of The Daily Grind coffee shop" 
+              src="https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=800&h=600&fit=crop&q=80" 
+              alt="Minimal café interior with concrete textures and natural light" 
               className="rounded-lg shadow-2xl object-cover w-full h-full"
               loading="lazy"
             />
